@@ -46,7 +46,9 @@ src/
 │
 └── constants/
     └── constants.ts         
+```
 
+## Cara Menjalankan 
 
 bun install         
 bun dev            
