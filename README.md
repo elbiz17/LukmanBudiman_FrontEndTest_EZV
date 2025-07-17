@@ -26,11 +26,12 @@ src/
 │
 ├── components/
 │   ├── organisms/
+|   |   └── pagination/
+|   |       └── Pagination.tsx
 │   │   └── todo/
 │   │       ├── TodoList.tsx
 │   │       └── TodoForm.tsx
-│   ├── pagination/
-│   │   └── Pagination.tsx
+│   │   
 │   └── ui/
 │       └── (reusable Tailwind components like Card, Button, Modal, etc.)
 │
