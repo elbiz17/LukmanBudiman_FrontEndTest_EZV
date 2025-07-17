@@ -35,8 +35,8 @@ src/
 │       └── (reusable Tailwind components like Card, Button, Modal, etc.)
 │
 ├── redux/
-│   └── dataApi/
-│       └── dataApi.ts       
+│   └── todoApi/
+│       └── todoApi.ts       
 │
 ├── services/
 │   └── todosService.ts     
